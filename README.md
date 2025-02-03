@@ -83,9 +83,9 @@ This project can be deployed on Vercel or any platform supporting Next.js applic
 - Dual integration with Cloudflare AI and local Ollama models
 - Real-time streaming responses
 - Customizable chat parameters:
-- Temperature control
-- Context window size
-- System prompt configuration
+    - Temperature control
+    - Context window size
+    - System prompt configuration
 - Markdown support in chat messages
 - Responsive design
 - Dark mode support
